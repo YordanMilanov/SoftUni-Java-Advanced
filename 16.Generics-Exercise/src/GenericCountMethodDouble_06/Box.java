@@ -1,4 +1,4 @@
-package GenericCountMethodStrings_05;
+package GenericCountMethodDouble_06;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -30,7 +30,6 @@ public class Box<T extends Comparable<T>> {
     }
 
     //count elements bigger than the given (input)
-    //for this task we need to extend the T type when we declare the class in the beginning with Comparable
     public int countGreaterThan(T element) {
         int count = 0; //number of elements that are greater than the given
         for (T elementInList : this.elements) {
@@ -40,7 +39,7 @@ public class Box<T extends Comparable<T>> {
             if F < S -> -1
             That is why we equalize it to 1, 0, -1 below
              */
-            if (elementInList.compareTo(element) > 0) {
+            if (elementInList.compareTo(element) == 1) {
                 count++;
             }
         }
