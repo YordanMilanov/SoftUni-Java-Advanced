@@ -75,6 +75,4 @@ public class CustomList<T extends Comparable<T>> {
             System.out.println(element);
         }
     }
-
-
 }
