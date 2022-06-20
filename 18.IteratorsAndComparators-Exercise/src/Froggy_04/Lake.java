@@ -17,6 +17,7 @@ public class Lake implements Iterable<Integer> {
 
     class Frog implements Iterator<Integer> {
         private int index = 0;
+        boolean firstRoundFinished = false;
 
         @Override
         public boolean hasNext() {
@@ -25,7 +26,13 @@ public class Lake implements Iterable<Integer> {
 
         @Override
         public Integer next() {
-            return null;
+            int currentIndex = index;
+            index +=2;
+            if (index >= numbers.size() && !firstRoundFinished) {
+                index = 1;
+                firstRoundFinished = true;
+            }
+            return numbers.get(currentIndex);
         }
     }
 }
