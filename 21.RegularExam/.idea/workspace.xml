@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee0d8b21-3101-4656-bfb9-7385c349c200" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../20.ExamPreparation-Exercise/src/Python_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../20.ExamPreparation-Exercise/src/ThroneConquering.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21.RegularExam.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChocolateTime_01StackAndQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StickyFingers_02Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workout/Exercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workout/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workout/Workout.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../20.ExamPreparation-Exercise/out/production/20.ExamPreparation-Exercise/hotel.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20.ExamPreparation-Exercise/src/Python_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20.ExamPreparation-Exercise/src/Python_Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20.ExamPreparation-Exercise/src/ThroneConquering.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20.ExamPreparation-Exercise/src/ThroneConquering.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/workout.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Application.StickyFingers_02Matrix">
     <configuration name="ChocolateTime_01StackAndQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
